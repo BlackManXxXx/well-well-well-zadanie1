@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	//	napis -= 32;  <-- Zamiana na wieksze litery ale nie dziala ?
 		plik1<<napis[j]<<" "<<" "<<endl;
 	}
- 	cout<<"tresc zostala zapisana w pliku dwa.txt";
+ 	cout<<"zmienna.txt";
     plik1.close(); 
 
 	                      
